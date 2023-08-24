@@ -95,3 +95,5 @@ export const NavBar = () => {
     </Router>
   );
 };
+
+// delete this later
